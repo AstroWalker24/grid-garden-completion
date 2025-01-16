@@ -1,6 +1,6 @@
 # Grid Garden:all levels completed 
 
-![CSS Diner Completion](./css-diner-completion.png)
+![Grid Garden Completion](./grid-garden-completion.png)
 
 I’m excited to share that I’ve successfully completed all 28 levels of **Grid Garden**, a fun and interactive game to practise CSS grids  🎉
 
